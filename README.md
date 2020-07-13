@@ -4,7 +4,6 @@
 * This program is simple coffee machine simulator.
 ## Technologies
 *Following Python basics:*
-* PEP 8 coding style.
 * Data types and Operations.
 * User Inputs.
 * Object Orientated Programming
